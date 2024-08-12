@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BeauCraig
+- 👀 I’m interested in Machine Learning, Automation, and Cars!
+- ⚡ Fun fact: I play lacrosse
